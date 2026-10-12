@@ -1,0 +1,5 @@
+com\localflix\service\WatchlistService.class
+com\localflix\LocalFlixApplication.class
+com\localflix\model\Movie.class
+com\localflix\repository\MovieRepository.class
+com\localflix\controller\MovieController.class
